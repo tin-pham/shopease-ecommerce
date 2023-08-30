@@ -8,7 +8,7 @@
 - Client for Admin: [Github Link](https://github.com/minercreepmc/shop-ease-dashboard)
 - Client for User: [Github Link](https://github.com/minercreepmc/shop-ease-client)
 
-### Process
+### Basic Process
 
 ##### We can login to the admin dashboard and manage 
 ![](./assets/image1.png)
