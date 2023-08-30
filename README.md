@@ -11,22 +11,22 @@
 ### Process
 
 ##### We can login to the admin dashboard and manage 
-![](./assets/image1.jpg)
+![](./assets/image1.png)
 ##### Add product along with category
-![](./assets/image2.jpg)
-![](./assets/image3.jpg)
-![](./assets/image4.jpg)
+![](./assets/image2.png)
+![](./assets/image3.png)
+![](./assets/image4.png)
 
 
 
 - In the client, we can register an account and login, then add to cart and checkout
-![](./assets/image5.jpg)
-![](./assets/image6.jpg)
-![](./assets/image7.jpg)
+![](./assets/image5.png)
+![](./assets/image6.png)
+![](./assets/image7.png)
 
 - Order will appear in both client and admin
-![](./assets/image8.jpg)
-![](./assets/image9.jpg)
+![](./assets/image8.png)
+![](./assets/image9.png)
 
 
 
