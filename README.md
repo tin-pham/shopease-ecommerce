@@ -4,9 +4,9 @@
 
 ## Showcase
 
-- Server: [Link](https://github.com/minercreepmc/product-catalog)
-- Client for Admin: [Link](https://github.com/minercreepmc/shop-ease-dashboard)
-- Client for User: [Link](https://github.com/minercreepmc/shop-ease-client)
+- Server: [Github Link](https://github.com/minercreepmc/product-catalog)
+- Client for Admin: [Github Link](https://github.com/minercreepmc/shop-ease-dashboard)
+- Client for User: [Github Link](https://github.com/minercreepmc/shop-ease-client)
 
 ### Process
 
