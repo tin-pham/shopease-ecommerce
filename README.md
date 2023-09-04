@@ -32,7 +32,11 @@
 ![](./assets/image7.png)
 
 - Order will appear in both client and admin
+
+User can cancel order
 ![](./assets/image8-updated.png)
+
+Admin can change to shipping state or cancelled state due to some reason (out of stock,..)
 ![](./assets/image9-updated.png)
 
 
