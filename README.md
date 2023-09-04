@@ -32,8 +32,8 @@
 ![](./assets/image7.png)
 
 - Order will appear in both client and admin
-![](./assets/image8.png)
-![](./assets/image9.png)
+![](./assets/image8-updated.png)
+![](./assets/image9-updated.png)
 
 
 
