@@ -7,10 +7,17 @@
 - Server: [Github Link](https://github.com/minercreepmc/product-catalog)
 - Client for Admin: [Github Link](https://github.com/minercreepmc/shop-ease-dashboard)
 - Client for User: [Github Link](https://github.com/minercreepmc/shop-ease-client)
+### Use Cases
+- Create, Update, Delete, Get Product 
+- Create, Update, Delete, Get Category
+- Create, Update, Delete, Get Discount
+- Manage relationship between Product, Category and Discount.
+- Register, Login as Member for User Client and Login as Admin for Admin Dashboard
+- Checkout and Manage Order 
 
-### Basic Process
+### Example Checkout Process
 
-##### We can login to the admin dashboard and manage 
+##### We can login to the admin dashboard and start to manage
 ![](./assets/image1.png)
 ##### Add product along with category
 ![](./assets/image2.png)
